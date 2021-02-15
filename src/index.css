@@ -17,3 +17,21 @@ body {
   --dark-grayish-violet: hsl(273, 4%, 51%);
   --very-light-gray: hsl(0, 0%, 98%);
 }
+
+.line{
+  border-bottom: .1vw solid var(--very-light-gray);
+  display: block;
+  width: 8vw;
+  margin-top: -5vh;
+  margin-bottom: 4vh;
+}
+
+.white-button{
+  border: .1vw solid var(--very-light-gray);
+  color: var(--very-light-gray);
+  font-size: 1.8vh;
+  padding: .4vw 1.5vw;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: .5vh;
+}
