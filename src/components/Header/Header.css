@@ -1,0 +1,35 @@
+header{
+    background-color: white;
+    padding: 2vh 1vh 1vh 2vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-logo{
+    padding: 1.4vh 0 1.4vh 15vh;
+    height: 2.5vh;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-right: 15vh;
+}
+
+.view-plans{
+    border: .15vw solid var(--very-dark-violet);
+    color: var(--very-dark-violet) !important;
+}
+
+.header-link{
+    letter-spacing: .1vw;
+    font-size: 1vw;
+    display: inline-block;
+    margin: .5vh 1vh 0 1vh;
+    text-decoration: none;
+    padding: 1vh 3vh;
+    color: var(--dark-grayish-violet);
+    font-weight: bold;
+}
