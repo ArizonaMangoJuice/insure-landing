@@ -1,0 +1,17 @@
+.info-container{
+    /* background-color: wheat; */
+    padding-top: 30vh;
+    
+}
+
+.inner-info-container{
+    width: 101vh;
+    margin: auto;
+}
+
+.reasons{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}

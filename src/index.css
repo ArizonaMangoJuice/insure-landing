@@ -26,6 +26,10 @@ body {
   margin-bottom: 4vh;
 }
 
+.dark-violet-line{
+  border-bottom: .1vw solid var(--dark-violet) !important;
+}
+
 .white-button{
   border: .1vw solid var(--very-light-gray);
   color: var(--very-light-gray);
@@ -34,4 +38,12 @@ body {
   text-decoration: none;
   display: inline-block;
   margin-top: .5vh;
+}
+
+.very-dark-violet{
+  color: hsl(270, 9%, 17%) !important;
+}
+
+.dark-violet{
+  color: hsl(256, 26%, 20%) !important;
 }
