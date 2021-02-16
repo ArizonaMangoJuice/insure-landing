@@ -1,0 +1,33 @@
+.more-container{
+    width: 101vh;
+    margin: auto;
+    background-color: var(--dark-violet);
+    color: white;
+    height: 20vh;
+    margin-bottom: 15vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+}
+
+.more-header{
+    letter-spacing: .2vh;
+    font-size: 3.5vh;
+    width: 34%;
+    padding-left: 7vh;
+}
+
+.more-button{
+    margin-right: 7vh;
+    z-index: 2;
+}
+
+.more-bg{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    height: 20vh;
+}
