@@ -1,3 +1,35 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@ArizonaMangoJuice 
+ArizonaMangoJuice
+/
+insure-landing
+1
+0
+0
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+insure-landing/.gitignore
+@ArizonaMangoJuice
+ArizonaMangoJuice first commit
+Latest commit 6f666fe 5 days ago
+ History
+ 1 contributor
+37 lines (30 sloc)  760 Bytes
+  
 # Avoid accidental Sketch file upload 
 ###############################################
 ## Please do not remove line 5 - thanks! 🙂 ##
@@ -35,3 +67,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

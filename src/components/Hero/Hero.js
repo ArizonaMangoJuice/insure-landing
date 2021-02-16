@@ -1,10 +1,12 @@
 import React from 'react';
 import './Hero.css';
 import mainImage from '../../images/image-intro-desktop.jpg';
+import desktopRight from '../../images/bg-pattern-intro-right-desktop.svg';
 
 const Hero = props => {
     return (
         <section className='hero'>
+            <img className='right-side-img' src={desktopRight} />
             <div className='hero-container'>
                 <div className='hero-text'>
                     <span className='line'></span>
