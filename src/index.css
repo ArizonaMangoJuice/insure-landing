@@ -47,3 +47,7 @@ body {
 .dark-violet{
   color: hsl(256, 26%, 20%) !important;
 }
+
+.dark-grayish-violet{
+  color: hsl(273, 4%, 51%) !important;
+}
