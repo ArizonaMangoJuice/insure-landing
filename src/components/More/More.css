@@ -3,7 +3,7 @@
     margin: auto;
     background-color: var(--dark-violet);
     color: white;
-    height: 20vh;
+    height: 22vh;
     margin-bottom: 15vh;
     display: flex;
     flex-direction: row;
@@ -29,5 +29,5 @@
     top: 0;
     right: 0;
     z-index: 1;
-    height: 20vh;
+    height: 22vh;
 }
