@@ -1,0 +1,43 @@
+footer {
+    width: 101vh;
+    margin: auto;
+    margin-bottom: 4vw;
+}
+
+.top-footer{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 1vw;
+}
+
+.footer-social{
+    text-align: end;
+}
+
+.footer-social-logo{
+    height: 1.5vw;
+    margin-right: 1.5vw;
+}
+
+.footer-social-logo:nth-child(4){
+    margin-right: 0;
+}
+
+.footer-logo{
+    height: 1.2vw;
+    padding-top: .2vw;
+}
+
+.footer-line{
+    border-bottom: .1vw solid var(--dark-grayish-violet);
+    width: 100%;
+    display: block;
+    margin-bottom: 1.8vw;
+}
+
+.bottom-footer{
+    display: flex ;
+    flex-direction: row;
+}

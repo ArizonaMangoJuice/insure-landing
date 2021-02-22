@@ -3,6 +3,8 @@ import Header from '../Header';
 import Hero from '../Hero';
 import Info from '../Info';
 import More from '../More';
+import Footer from '../Footer'
+
 
 const App = props => {
     return (
@@ -11,6 +13,7 @@ const App = props => {
             <Hero />
             <Info />
             <More />
+            <Footer />
         </>
     )
 };
